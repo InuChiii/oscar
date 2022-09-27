@@ -62,7 +62,7 @@ Project created by <a href="https://github.com/Alpiii22">JAROT OFFC</a> to make 
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alpiii22/OSCAR-MULTIDEVICE)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InuChiii/OSCAR)
 
 | BuildPack | LINK |
 |--------|--------|
